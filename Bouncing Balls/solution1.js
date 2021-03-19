@@ -10,3 +10,5 @@ function bouncingBall(h,  bounce,  window) {
   } else return -1;
   return result;
 }
+
+module.exports = bouncingBall;

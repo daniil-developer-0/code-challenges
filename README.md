@@ -3,3 +3,4 @@
 ## Katas
 * [Stop gninnipS My sdroW!](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Stop%20gninnipS%20My%20sdroW!)
 * [Bouncing Balls](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Bouncing%20Balls)
+* [CamelCase Method](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/CamelCase%20Method)
