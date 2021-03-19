@@ -1,0 +1,22 @@
+{
+  "name": "codewars-challenges",
+  "version": "1.0.0",
+  "description": "В данном репозитории находятся решения к катам (название заданий на Codewars), которые я решал. ## Katas * [Stop gninnipS My sdroW!](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Stop%20gninnipS%20My%20sdroW!) * [Bouncing Balls](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Bouncing%20Balls)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniilshilo-dev/codewars-challenges.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniilshilo-dev/codewars-challenges/issues"
+  },
+  "homepage": "https://github.com/daniilshilo-dev/codewars-challenges#readme",
+  "devDependencies": {
+    "mocha": "^8.3.2"
+  }
+}
