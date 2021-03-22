@@ -1,5 +1,13 @@
 # Readme
 В данном репозитории находятся решения к катам (название заданий на Codewars), которые я решал.
+## Тесты
+Для того, чтобы убедиться что все мои решения работают правильно, вы можете запустить unit-tests, которые написаны на фреймворке Jest.
+
+```bash
+npm i -D
+npx test
+```
+
 ## Katas
 * [Stop gninnipS My sdroW!](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Stop%20gninnipS%20My%20sdroW!)
 * [Bouncing Balls](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Bouncing%20Balls)

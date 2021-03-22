@@ -1,4 +1,4 @@
-let camelCase = require('../solution1')
+let camelCase = require('../solution')
 
 test('Testing camelCase method', function() {
     expect("test case".camelCase()).toBe('TestCase');

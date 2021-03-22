@@ -1,4 +1,4 @@
-let solution = require('../solution1')
+let solution = require('../solution')
 
 test('Testing Calculate BMI with low values', () => {
 expect(solution(30, 1.80)).toBe("Underweight");
