@@ -4,3 +4,5 @@ function spinWords(s){
       .map(x => {return (x.length >= 5) ? x.split('').reverse().join(''): x})
       .join(' ');
 }
+
+module.exports = spinWords;

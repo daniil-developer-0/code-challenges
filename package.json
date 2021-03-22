@@ -4,7 +4,7 @@
   "description": "В данном репозитории находятся решения к катам (название заданий на Codewars), которые я решал. ## Katas * [Stop gninnipS My sdroW!](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Stop%20gninnipS%20My%20sdroW!) * [Bouncing Balls](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Bouncing%20Balls)",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "npx jest"
   },
   "repository": {
     "type": "git",
@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/daniilshilo-dev/codewars-challenges#readme",
   "devDependencies": {
-    "mocha": "^8.3.2"
+    "jest": "^26.6.3"
   }
 }
