@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "module": "ES3",
+        "noImplicitAny": true,
+        "removeComments": true,
+        "preserveConstEnums": true,
+        "sourceMap": true
+      }
+}
