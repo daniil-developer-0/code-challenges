@@ -5,6 +5,7 @@
 * [Bouncing Balls](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Bouncing%20Balls)
 * [CamelCase Method](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/CamelCase%20Method)
 * [Calculate BMI](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Calculate%20BMI)
+* [Break camelCase](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/Break%20CamelCase)
 
 ## Nice sites
 * [MDN JS](https://github.com/daniilshilo-dev/codewars-challenges/tree/master/)
