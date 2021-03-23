@@ -1,6 +1,7 @@
 # Readme
-
-![Logo](/png/logo.png)
+<p align="center">
+  <img alt="" src="/png/logo.png">
+</p>
 
 В данном репозитории находятся решения к катам (название заданий на Codewars), которые я решал. (Также содержит задания из Codeforces)
 ## Тесты
