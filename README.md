@@ -22,6 +22,7 @@ npx test
 * [CamelCase Method](/CamelCase%20Method)
 * [Calculate BMI](/Calculate%20BMI)
 * [Break camelCase](/Break%20CamelCase)
+* [Sudoku Solution Validator](/Sudoku%20Solution%20Validator)
 * [PaginationHelper](/PaginationHelper)
 
 ## Nice sites
